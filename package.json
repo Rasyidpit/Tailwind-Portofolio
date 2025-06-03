@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "scripts": {
+    "tail": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "name": "togar_11tkj1",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "GawrTech_Porto"
+}

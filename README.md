@@ -23,7 +23,7 @@
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/username/simple-portfolio.git
+git clone https://github.com/GaroxTech/Tailwind-Portofolio.git
 ```
 ---
 

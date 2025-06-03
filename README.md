@@ -24,7 +24,7 @@
 
 ```bash
 git clone https://github.com/username/simple-portfolio.git
-
+```
 ---
 
 > 🔗 **Dev's Website**: [https://gawr.site](https://gawr.site)

@@ -27,4 +27,4 @@ git clone https://github.com/Rasyidpit/Tailwind-Portofolio.git
 ```
 ---
 
-> 🔗 **Dev's Website**: [https://gawr.site](https://gawr.site)
+> 🔗 **Dev's Website**: [https://gawr.site](https://gawr.tech)
